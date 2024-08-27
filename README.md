@@ -41,20 +41,8 @@ This dashboard was created as part of the **FP20 Analytics Challenge 18**, power
 
 Don't miss out on showcasing your data skills. This challenge is a great opportunity to enhance your portfolio, gain recognition, and connect with fellow data enthusiasts.
 
-## 📚 Resources
-
-- **Instruction Video**: [YouTube Link](https://www.youtube.com/watch?v=jkcAYgFGWUY)
-- **NovyPro**: [NovyPro](https://www.novypro.com/)
-
-## 🤝 Contributing
-
-We welcome contributions! Please fork this repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## 🌟 Acknowledgements
 
 - **FP20 Analytics**: For organizing this fantastic challenge.
 - **ZoomCharts**: For their exceptional visualization tools.
 
----
-
-Feel free to customize this template to better suit your project. Make sure to replace placeholders like `path_to_your_dashboard_image.png` with actual paths or links to images and other resources. This README file should provide a clear, engaging overview of your project and guide users on how to get started with it.
